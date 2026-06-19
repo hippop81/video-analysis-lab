@@ -1,0 +1,16 @@
+{
+  "results": {
+    "silences": [
+      {"start": 3.200, "end": 5.100, "duration": 1.900},
+      {"start": 12.300, "end": 14.100, "duration": 1.800},
+      {"start": 22.500, "end": 23.800, "duration": 1.300},
+      {"start": 35.000, "end": 37.500, "duration": 2.500},
+      {"start": 48.100, "end": 49.600, "duration": 1.500},
+      {"start": 61.200, "end": 63.900, "duration": 2.700},
+      {"start": 75.400, "end": 76.800, "duration": 1.400},
+      {"start": 89.000, "end": 91.200, "duration": 2.200},
+      {"start": 102.300, "end": 103.500, "duration": 1.200},
+      {"start": 115.700, "end": 118.000, "duration": 2.300}
+    ]
+  }
+}
