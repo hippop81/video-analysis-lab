@@ -2,6 +2,14 @@
 
 This memo captures the planned small Python scripts for the video/audio analysis workflow. The scripts only detect or summarize analysis data; they do not edit media files.
 
+## Repository Status
+
+Current implemented app:
+
+- `silence_review_ui.py`: Streamlit UI for reviewing silence candidates from a `silence_detector.py` JSON output.
+
+Planned pipeline scripts described below are not yet part of the repository on the current cleanup branch unless added by a future implementation PR. Keep this file as the design note for that expansion path.
+
 ## Scripts
 
 ### beat_detector.py
